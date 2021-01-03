@@ -15,7 +15,7 @@
 
 <div style="display:inline-block; padding:10px;" >
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/shelby-el-rassi-dev)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shelby-el-rassi-dev)
 
 </div>
 </div>
