@@ -1,7 +1,4 @@
 
-
-<div style=" text-align:center;" >
-
 ## Hello! I'm Shelby.
 #### Full Stack Developer
 
@@ -38,8 +35,8 @@
 <img width="40px"  src="./devicon-master/icons/materialui/materialui-original.svg" alt="materialui" style="padding:5px; width: 40px;" >
 <img width="40px"  src="./devicon-master/icons/javascript/javascript-original.svg" alt="javascript" style="padding:5px; width: 40px;" >
 <img width="40px"  src="./devicon-master/icons/react/react-original-wordmark.svg" alt="react" style="padding:5px; width: 40px;" >
-<img width="40px"  src="./devicon-master/icons/express/express-original-wordmark.svg" alt="express" style="padding:5px; width: 40px;" >
-<img width="40px"  src="./devicon-master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="padding:5px; width: 40px;" >
+<img width="40px" src="./devicon-master/icons/express/express-original-wordmark.svg" alt="express" style="padding:5px; width: 40px;" >
+<img width="40px" src="./devicon-master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="padding:5px; width: 40px;" >
 <img width="40px" src="./devicon-master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="padding:5px; width: 40px;" >
 <img width="40px" src="./devicon-master/icons/rails/rails-plain-wordmark.svg" alt="rails" style="padding:5px; width: 40px;" >
 <img width="40px" src="./devicon-master/icons/ruby/ruby-plain-wordmark.svg" alt="ruby" style="padding:5px; width: 40px;" >
@@ -51,7 +48,8 @@
 
 </div>
 
-````
+
+
 
 -----
 
@@ -64,4 +62,3 @@
 
 -----
 
-</div>
