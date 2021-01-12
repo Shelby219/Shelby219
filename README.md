@@ -2,9 +2,6 @@
 ## Hello! I'm Shelby.
 #### Full Stack Developer
 
-##### I love coding and creating websites and applications.
-
-
 
 <div style=" text-align:center; margin: auto;" >
 <div  style="display:inline-block; padding:10px;" >
