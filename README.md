@@ -10,7 +10,7 @@
 ##### Connect with me:
 
 <p align="left">
-<a href="www.linkedin.com/in/shelby-el-rassi-dev" target="blank">
+<a href="https://www.linkedin.com/in/shelby-el-rassi-dev" target="blank">
 <img width="40px" src="./devicon-master/icons/linkedin/linkedin-original.svg" alt="html5" style="padding:5px; width: 40px;" >
 </a>
 <a href="https://twitter.com/theartydev" target="blank">
