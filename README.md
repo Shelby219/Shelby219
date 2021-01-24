@@ -3,7 +3,8 @@
 #### Full Stack Developer
 
 
-##### Check out my [portfolio](https://www.shelby-el-rassi.com/) here!
+* 💻 **Portfolio:** Check out my [work](https://www.shelby-el-rassi.com/) here!
+* 👩‍💻 **Currently Learning:** Typescript & AWS. 
 
 ---
 
