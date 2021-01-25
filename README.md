@@ -4,7 +4,8 @@
 
 
 * 💻 **Portfolio:** Check out my [work](https://www.shelby-el-rassi.com/) here!
-* 👩‍💻 **Currently Learning:** Typescript & AWS. 
+* 👩‍💻 **Currently Learning:** AWS. 
+
 
 ---
 
