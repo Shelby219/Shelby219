@@ -4,7 +4,7 @@
 
 
 * 💻 **Portfolio:** Check out my [work](https://www.shelby-el-rassi.com/) here!
-* 👩‍💻 **Currently Learning:** AWS Cloud Practitioner. 
+* 👩‍💻 **Currently Learning:** AWS Cloud Practitioner cert. 
 
 
 ---
